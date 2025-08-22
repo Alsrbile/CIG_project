@@ -1,7 +1,7 @@
 # Consistent image generation project
 
 <div align="center">
-  <img width="600" alt="Image" src="https://github.com/user-attachments/assets/ebad66d1-6088-4ee6-b78e-e14f0d46bb27" />
+  <img width="200" alt="Image" src="https://github.com/user-attachments/assets/ebad66d1-6088-4ee6-b78e-e14f0d46bb27" />
 </div>
 
 ## 설명
