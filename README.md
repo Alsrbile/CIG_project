@@ -1,6 +1,6 @@
 # Consistent image generation project
 
-![이미지 설명](images/example1.png)
+![이미지 설명](output/A photo of a cute dog running in the park.png)
 
 
 ## 설명
