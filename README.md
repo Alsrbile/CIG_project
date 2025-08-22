@@ -1,6 +1,6 @@
 # Consistent image generation project
 
-![이미지 설명](results.png)
+![이미지 설명](./results.png)
 ![이미지 설명](https://github.com/Alsrbile/CIG_project/blob/main/results.png?raw=true)
 
 
