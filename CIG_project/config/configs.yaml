@@ -1,0 +1,12 @@
+Environment:
+  seed: 42
+  device: 'cuda:0'
+
+Inference:
+  guidance_scale: 5.0
+  num_inference_steps: 50
+  mask_dropout: 0.5
+
+Path:
+  pretrained_model: 'stabilityai/stable-diffusion-xl-base-1.0'
+  single_benchmark_dir: 'dataset/single_object/consistory_prompt_benchmark.yaml'
