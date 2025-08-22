@@ -1,9 +1,5 @@
 # Consistent image generation project
 
-![이미지 설명](./results.png)
-![이미지 설명](https://github.com/Alsrbile/CIG_project/blob/main/results.png?raw=true)
-
-
 ## 설명
 이 코드는 `generate.py` 파일 내부에서 generate_SDXL_images 함수를 통해 영상을 생성합니다.
 
