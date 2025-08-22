@@ -1,5 +1,7 @@
 # Consistent image generation project
 
+<img width="3909" height="1466" alt="Image" src="https://github.com/user-attachments/assets/ebad66d1-6088-4ee6-b78e-e14f0d46bb27" />
+
 ## 설명
 이 코드는 `generate.py` 파일 내부에서 generate_SDXL_images 함수를 통해 영상을 생성합니다.
 
